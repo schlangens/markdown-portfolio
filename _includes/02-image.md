@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image About Scott Schlangen(https://media-exp1.licdn.com/dms/image/C5616AQF-Y4pD6WtKmQ/profile-displaybackgroundimage-shrink_200_800/0/1582080401497?e=1634774400&v=beta&t=Rp2_ekX4VazNekb2y1v_5EFNcbr0hnFRrA-9mFYBOGw)
