@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Things I love to do:
+1. Learning new technologies
+2. Family time
+3. Watching movies
